@@ -1,0 +1,19 @@
+/* Populate tables */
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES( 'Andres', 'Guzman', 'profesor@bolsadeideas.com', '2017-08-28');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES( 'John', 'Doe', 'john.doe@gmail.com', '2017-08-28');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES( 'yeiny', 'Doe', 'yeiny.doe@gmail.com', '2017-08-28');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES( 'heisy', 'Doe', 'heisy.doe@gmail.com', '2017-08-28');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES( 'carla', 'Doe', 'carla.doe@gmail.com', '2017-08-28');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES( 'maria', 'Doe', 'maria.doe@gmail.com', '2017-08-28');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES( 'david', 'Doe', 'david.doe@gmail.com', '2017-08-28');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES( 'carlos', 'Doe', 'carlos.doe@gmail.com', '2017-08-28');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES( 'jhoymar', 'Moya', 'jhoymar.doe@gmail.com', '2017-08-28');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES( 'Andres', 'Guzman', 'profesor@bolsadeideas.com', '2017-08-28');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES( 'John', 'Doe', 'john.doe@gmail.com', '2017-08-28');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES( 'yeiny', 'Doe', 'john.doe@gmail.com', '2017-08-28');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES( 'heisy', 'Doe', 'john.doe@gmail.com', '2017-08-28');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES( 'carla', 'Doe', 'john.doe@gmail.com', '2017-08-28');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES( 'maria', 'Doe', 'john.doe@gmail.com', '2017-08-28');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES( 'david', 'Doe', 'john.doe@gmail.com', '2017-08-28');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES( 'carlos', 'Doe', 'john.doe@gmail.com', '2017-08-28');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES( 'jhoymar', 'Moya', 'john.doe@gmail.com', '2017-08-28');
